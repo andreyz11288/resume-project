@@ -1,0 +1,278 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background: #f5f7fa;
+    font-family: 'Montserrat', sans-serif;
+    max-width: 1200px;
+}
+.Tech-Skills-container {
+    margin-left: 40px;
+}
+
+.contact-container {
+    padding-top: 57px;
+}
+.contacts {
+    margin-left: 40px;
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.ce {
+    padding-left: 40px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 21px;
+    color: #ffffff;
+}
+.ce1 {
+    text-decoration: none;
+    margin-left: 10px;
+    color: #787f88;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.photo {
+    padding-top: 40px;
+    width: 370px;
+}
+.Tech-Skills-title {
+    padding-top: 54px;
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.main-contact {
+     background-color:
+     #1e2939 ;
+     width: 370px;
+}
+.li {
+    margin-left: 60px;
+    color:#ff6b08;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.li-1{
+    padding-left: 20px;
+    margin-top: 20px;
+    color:#ff6b08;;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.li1-1 {
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.li2{
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}    
+.Soft-Skills {
+    margin-left: 40px;
+    padding-top: 42px;
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.main-1 {
+    box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+    background-color: #ffffff;
+    margin: 40px;
+    display: flex;
+    flex-direction: row;
+}
+.about-me-container {
+    padding-left: 89px;
+    
+}    
+.lorem1 {
+    max-width: 550px;
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.front {
+    color: #000000;
+    margin-top: 108px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.and {
+    margin-top: 12px;
+    color: #000000;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+}
+.front1 {
+    margin-top: 18px;
+    color: #000000;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.free {
+    color: #ff6b08;
+}
+.sep {
+    margin-top: 14px;
+    color: #a8a8a8;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.project {
+    color: #000000;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    padding-top: 64px;
+}
+.li-2 {
+    margin-left: 15px;
+    margin-top: 12px;
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.li2-2{
+    color: #000000 ;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.li2-3 {
+    text-decoration: none;
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}    
+.li2-3-1 {
+    color: #595959;
+    font-size: 8px;
+    font-weight: 400;
+    line-height: 24px;
+}    
+.work {
+    color: #000000;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    padding-top: 52px;
+}
+.lorem2 {
+    max-width: 550px;
+    margin-left: 15px;
+    margin-top: 6px;
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.manager {
+    margin-top: 24px;
+    color: #000000;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.roga {
+    color: #ff6b08;
+}
+.march {
+    margin-top: 14px;
+    color: #a8a8a8;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.lorem3 {
+    margin-right: 93px;
+    max-width: 600px;
+    color: #595959;
+    margin-left: 15px;
+    margin-top: 6px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.manager2 {
+    margin-top: 31px;
+    color: #000000;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.roga2 {
+    color: #ff6b08;
+}
+.june {
+    margin-top: 14px;
+    color: #a8a8a8;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.lorem4 {
+    max-width: 550px;
+    margin-top: 6px;
+    margin-left: 15px;
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.Education {
+    margin-top: 54px;
+    color: #000000;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.uni {
+    margin-top: 16px;
+    color: #ff6b08;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.man {
+    margin-top: 5px;
+    color: #000000;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.sep {
+    margin-top: 14px;
+    color: #a8a8a8;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.ukr{
+    color: #000;
+}
